@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Factura
+comment0.text=\r\n\ Factura\ de\ una\ compra\r\n\ \r\n\ @author\ Romero\ Alejo\ \r\n\ @version\ 1.0\r\n
+comment1.params=numero
+comment1.target=Factura(int)
+comment2.params=
+comment2.target=int\ getNumero()
+comment3.params=nuevoNumero
+comment3.target=void\ setNumero(int)
+comment4.params=d
+comment4.target=void\ agregarDetalles(Detalle)
+comment5.params=
+comment5.target=void\ listaFactura()
+numComments=6

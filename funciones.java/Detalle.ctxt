@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Detalle
+comment0.text=\r\n\ Detalle\ de\ factura\r\n\ \r\n\ @author\ Romero\ Alejo\r\n\ @version\ 1.0)\r\n
+comment1.params=articulo\ cantidad
+comment1.target=Detalle(Articulo,\ int)
+comment2.params=
+comment2.target=Articulo\ getArticulo()
+comment3.params=nuevoArticulo
+comment3.target=void\ setArticulo(Articulo)
+comment4.params=
+comment4.target=int\ getCantidad()
+comment5.params=nuevaCantidad
+comment5.target=void\ setCantidad(int)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
